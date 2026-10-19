@@ -46,7 +46,7 @@ legend('topright', legend = c('Home', 'Away'), col = c('blue', 'red'),
 
 dev.off() # Writes image to disk
 
-png('PointsvsRank', width = 800, height = 600)
+png('PointsvsRank.png', width = 800, height = 600)
 plot(jitter(ashford_matches$opponent_rank), jitter(ashford_matches$points),
      col = ifelse(ashford_matches$home_away == 'Home', 'blue', 'red'),
      pch = 19,
