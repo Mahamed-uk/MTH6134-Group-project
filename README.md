@@ -1,7 +1,7 @@
 # MTH6134-Group-project
 Repository for the Statical Modelling II group project.
 
-##Group members:
+## Group members:
 
 Mahamed Mahamed: @Mahamed-uk 
 
