@@ -7,3 +7,9 @@ Friday 13th November 2026
     - Is Ashford’s injury rate different from the rest of the league once player profiles are taken into account?
   Question presented by Mahamed (Is there an association between a team’s average player age/BMI/training load and its league rank (using all 24 teams), and where does Ashford sit relative to that relationship?) dropped
   Decided to find another question linking both datasets as soon as possible so we can begin exploratory data analysis and model building
+
+Tuesday 17th November 2026
+  Decided to drop link question entirely
+  Will discuss limitations of data not allowing link question in conclusion
+  New question
+    - How is playing time distributed?
