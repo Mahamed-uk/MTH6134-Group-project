@@ -13,3 +13,6 @@ Tuesday 17th November 2026
   Will discuss limitations of data not allowing link question in conclusion
   New question
     - How is playing time distributed?
+
+Friday 20th November 
+Decided to change the question from "How is playing time distributed? to “How is playing time distributed across players in the league, and which player characteristics are associated with the number of minutes played?” because it turns it into a regression question. It gives me a response variable, explanatory variables and a model to fit and check, while keeping the original focus on how playing time is spread across players.
